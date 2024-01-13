@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133446406640508623" remote="133446408650000000" Dst="1" />
+<file name="request_all_docs.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133459973210933800" remote="133459973210000000" Dst="1" />
+<file name="query_files.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133443691314242013" remote="133443691320000000" Dst="1" />
+<file name="clear_session.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133434289061607380" remote="133443694650000000" Dst="1" />
+<file name="session_tools.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133443694409056920" remote="133445710310000000" Dst="1" />
+<file name="logging.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133425519950000000" remote="133425519950000000" Dst="1" />
+<file name="get_file_data.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133445724092891521" remote="133459974510000000" Dst="1" />
+<file name="session_tools.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133443694409056920" remote="133444670320000000" Dst="1" />
+<file name="get_file_data.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133444671328676406" remote="133444671330000000" Dst="1" />
+<file name="clear_session.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133434289061607380" remote="133434325060000000" Dst="1" />
+<file name="query_files.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133443691314242013" remote="133444671280000000" Dst="1" />
+<file name="index.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133444671310864304" remote="133444671300000000" Dst="1" />
+<file name="request_all_docs.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133443695850069300" remote="133444670300000000" Dst="1" />
+<file name="upload.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133443625580000000" remote="133444671260000000" Dst="1" />
+<file name="search.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com" local="133443617780000000" remote="133444671270000000" Dst="1" />
+<file name="upload.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133445554499099050" remote="133445554510000000" Dst="1" />
+<file name="upload_new.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133445856142050912" remote="133445856140000000" Dst="1" />
+<file name="upload_existing.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133445856098584719" remote="133445856190000000" Dst="1" />
+<file name="search.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133449928150000000" remote="133449928150000000" Dst="1" />
+<file name="index.nginx-debian.html" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133377093760000000" remote="133377093760000000" Dst="1" />
+<file name="reports.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133461027969353968" remote="133461027990000000" Dst="1" />
+<file name="view_file.php" server="ec2-3-140-207-56.us-east-2.compute.amazonaws.com//var/www/html/" local="133453250700000000" remote="133453250700000000" Dst="1" />
+</dwsync>
